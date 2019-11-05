@@ -1,6 +1,3 @@
 {
-  "accounts": [
-      ["icon_add", "icon_add_clicked", "ADD", "WALLET", "Account"],
-      
-    ]
+  "accounts": ""
 }
