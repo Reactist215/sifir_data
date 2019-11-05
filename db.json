@@ -1,26 +1,8 @@
 {
-  accounts: [
-    [Images.icon_add, Images.icon_add_clicked, 'ADD', 'WALLET', 'Account'],
-    [
-      Images.icon_light,
-      Images.icon_light_clicked,
-      'GHASSANS',
-      'WALLET',
-      'Account',
-    ],
-    [
-      Images.icon_light,
-      Images.icon_light_clicked,
-      'COFFEE',
-      'FUND #1',
-      'Account',
-    ],
-    [
-      Images.icon_light,
-      Images.icon_light_clicked,
-      'ONLINE',
-      'SHOPPING',
-      'Account',
-    ],
-  ],
+  "accounts": [
+    ["icon_add", "ADD WALLET"],
+    ["light", "GHASSANS WALLET"],
+    ["light", "COFFEE FUND #1"],
+    ["light", "ONLINE SHOPPING"]
+  ]
 }
